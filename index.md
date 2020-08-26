@@ -1,5 +1,7 @@
 ## Welcome to computer programming 1
 
+![typingtest](https://github.com/Elledykstra/skyline-computer-programming/blob/gh-pages/images/Screenshot%202020-08-26%20at%207.53.12%20AM.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/Elledykstra/skyline-computer-programming/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
